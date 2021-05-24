@@ -6,7 +6,6 @@ import tech.getarrays.employeemanager.exception.UserNotFoundException;
 import tech.getarrays.employeemanager.model.Employee;
 import tech.getarrays.employeemanager.repository.EmployeeRepository;
 
-import java.nio.file.attribute.UserPrincipalNotFoundException;
 import java.util.List;
 import java.util.UUID;
 
